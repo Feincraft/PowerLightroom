@@ -1,7 +1,7 @@
 # PowerLightroom
 🤔There's a lot of tasks that require images🖼️ in #PowerApps but there's no way to edit them. Until now 😁 Check out PowerLightroom, a canvas app that can edit images. 
 
-💡The app allows uploading an image and changing it with 7 different filters.
+💡The app allows uploading an image and changing it with 8 different filters manually or using built-in presets. Developers can add custom presets.
 
 ⚒️The primary mechanism is saving the image as BASE64 binary in memory, using CSS filters to change it and rendering as HTML.
 
